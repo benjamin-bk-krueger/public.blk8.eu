@@ -1,5 +1,0 @@
-Todo:
-Setup webserver
-Create accounts for our team members (alice, bob, megan)
-Enable communication channels
-etc etc...
